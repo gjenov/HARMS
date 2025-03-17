@@ -5,6 +5,7 @@
 - This section is used for creating a .xlsx file with all annotations from an uploaded video
 	- This code is defined for use with the ICARE dataset
 #### Instructions:
+	Open OnScreenGuiAnnotation.ipynb
 	(Optional) Run code cell 1 to install ultralytics
 	Run cell 2 to define our drawing function
 	In cell 3, **define** your video path, video start time in "00:00:00" format, output path and sheet path
