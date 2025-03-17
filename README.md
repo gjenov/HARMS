@@ -25,6 +25,16 @@ The main functionality of this report is covered in sections 1-3
 	This code is used to display a sample dashboard using dash by plotly.
 	To run the dashboard simply run app.py and open "http://127.0.0.1:8050/" on a web browser
 
+## 4) Posec3d
+	This code was used to train and evaluate posec3d using mmaction2
+ 	1) Download MMaction2 toolbox
+  	2) Download and open folder posec3d in repo
+  	3) To MMAction 2 toolbox: 
+   		- Upload the trained model weights (our .pth was too large to upload to github)
+     		- Upload the labels (labels.txt)
+       		- replace the config file in "\mmaction2\configs\skeleton\posec3d" with config file: (slowonly_r50_8xb32-u48-240e_k400-keypoint_.py)
+	 	- Run
+
 ### Misc. (other scripts for dashboard mockup and accuracy evaluation)
 	evaluate_yolo_buffer.py is used to assess the accuracy 
  	to run, change the inputs of the truth data and input data in csv and run evaluate_yolo_buffer.py
