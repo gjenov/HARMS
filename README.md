@@ -24,6 +24,10 @@
 	This code is used to display a sample dashboard using dash by plotly.
 	To run the dashboard simply run app.py and open "http://127.0.0.1:8050/" on a web browser
 
+## Misc.
+	evaluate_yolo_buffer.py is used to assess the accuracy 
+ 	to run, change the inputs of the truth data and input data in csv and run evaluate_yolo_buffer.py
+
 ### Future Work
 	Next steps include 1) Integrating Server / Client to send live updates to Dashboard
 	2) Optimizing annotations for use in realtime
