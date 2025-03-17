@@ -1,5 +1,6 @@
 # NOHARMS (Non Obtrusive Human Activity Recognition in Medical Settings)
 ## Welcome to NOHARMS
+The main functionality of this report is covered in sections 1-3
 
 ## 1) Local Machine Annotations
 - This section is used for creating a .xlsx file with all annotations from an uploaded video
@@ -24,7 +25,7 @@
 	This code is used to display a sample dashboard using dash by plotly.
 	To run the dashboard simply run app.py and open "http://127.0.0.1:8050/" on a web browser
 
-## Misc.
+### Misc. (other scripts for dashboard mockup and accuracy evaluation)
 	evaluate_yolo_buffer.py is used to assess the accuracy 
  	to run, change the inputs of the truth data and input data in csv and run evaluate_yolo_buffer.py
 
