@@ -12,10 +12,10 @@
 	Finally, Run cell 4 to produce an annotated video (With GUI) and .xlsx annotated output
 
 ## 2) Server / Client
-	Open roomtransition_local.ipynb, this will be your server
+	Open server.ipynb, this will be your server
 	Complete same instructions as before (running cell 4 will start server)
-	Open clientgui.ipynb
-	Run roomtransition_local.ipynb, once running run clientgui.ipynb
+	Open client.ipynb
+	Run server.ipynb, once running run client.ipynb
 
 	This will open two cv2 windows to display realtime annotations and GUI
 	(This server and client will run on localhost)
