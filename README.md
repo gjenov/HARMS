@@ -29,6 +29,10 @@ The main functionality of this report is covered in sections 1-3
 	evaluate_yolo_buffer.py is used to assess the accuracy 
  	to run, change the inputs of the truth data and input data in csv and run evaluate_yolo_buffer.py
 
+ 	UpdatingDashBoard.ipynb was used for a dashboard mockup using ngrok and novu
+  	
 ### Future Work
 	Next steps include 1) Integrating Server / Client to send live updates to Dashboard
 	2) Optimizing annotations for use in realtime
+ 
+ 	
