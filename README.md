@@ -1,6 +1,7 @@
 # NOHARMS (Non Obtrusive Human Activity Recognition in Medical Settings)
 ## Welcome to NOHARMS
 The main functionality of this report is covered in sections 1-3
+
 Section 4 details our setup for posec3d for training and testing
 
 
