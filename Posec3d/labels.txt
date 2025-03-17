@@ -1,0 +1,10 @@
+Open fridge
+Open bedside table drawer
+Sit at table
+Sit at desk
+Lay on bed
+Sit on couch
+Open cupboard
+Sit on bed
+Pick up book
+Room transitions
